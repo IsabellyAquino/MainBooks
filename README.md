@@ -25,7 +25,7 @@ Antes de executar a aplicação, é necessário configurar o ambiente. Certifiqu
 - IDE de sua escolha (Eclipse, IntelliJ IDEA, etc.)
 - Maven (gerenciador de dependências)
 
-Além disso, você precisará criar um banco de dados MySQL para armazenar as informações dos livros. O script SQL para a criação da tabela pode ser encontrado no diretório sql deste projeto.
+Além disso, você precisará criar um banco de dados MySQL para armazenar as informações dos livros. O script SQL para a criação do banco pode ser encontrado no diretório sql deste projeto.
 
 ## 📦 Implantação
 
