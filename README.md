@@ -1,6 +1,6 @@
 <h1 align="center"> Sistema de gerenciamento de livros </h1>
 
-<p align="center">Aplicação desenvolvida MVP(Minimum Viable Product) para resolução de um problema apresentado pelo Senai no curso técnico em Desenvolvimento de Sistemas. O projeto é um CRUD simples no padrão arquitetura MVC(Model-View-Controller) relacionado a livros onde insere, edita, lista e exclui registros em um banco de dados do SGBD MySQL
+<p align="center">Aplicação desenvolvida MVP(Minimum Viable Product) para resolução de um problema apresentado pelo Senai no curso técnico em Desenvolvimento de Sistemas. O projeto é um CRUD simples no padrão arquitetura MVC(Model-View-Controller) relacionado a livros.
  <br/>
 </p>
 
