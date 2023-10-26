@@ -38,7 +38,7 @@ Aqui estão os passos para configurar o ambiente de desenvolvimento:
 
 Clone o repositório para sua máquina local:
 
-git clone https://github.com/IsabellyAquino/MainBooks.git
+git clone https://github.com/IsabellyAquino/SA-livros.git
 
 ## Executando a aplicação
 
