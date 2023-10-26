@@ -58,6 +58,6 @@ Abra um navegador da web e acesse a interface de usuário (geralmente, em http:/
 - Framework: Spring Boot
 - Framework Web: Spring Web
 - Framework de persistência: Spring Data JPA
-- Frontend: Thymeleaf, HTML e CSS
+- Frontend: Thymeleaf, Bootstrap, HTML e CSS
 - Banco de dados: MySQL
 - IDE: IntelliJ
